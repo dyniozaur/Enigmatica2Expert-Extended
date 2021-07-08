@@ -85,6 +85,17 @@ recipes.addShapeless("Litherite Block -> Crystal",
 <environmentaltech:litherite_crystal> * 9, 
 [<ore:blockLitherite>]);
 
+/* Patchouli_js('Energy/Environmental Tech',
+  require("../lib/EvtTechSolarCalc.js").rf_t
+  .map((r,k)=>({
+		icon:	"environmentaltech:solar_cont_1",
+    type:	"item_list",
+    title: "Solar Array Tier "+(k+1),
+    ...item$i(r, m=>`environmentaltech:solar_cell_${m[0]}#${m[2]}`),
+    ...text$i(r, m=>numeral(m[1]).format('0,0').padStart(11) + " RF/t")
+  }))
+)*/
+
 # Solar Array Tier 4-6
 recipes.remove(<environmentaltech:solar_cont_4>);
 mods.extendedcrafting.TableCrafting.addShaped(0, <environmentaltech:solar_cont_4>, 
