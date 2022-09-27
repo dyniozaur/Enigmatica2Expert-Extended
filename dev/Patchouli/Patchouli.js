@@ -58,7 +58,7 @@ const defaultFileContent = {
       'Tweaks and changes about $(l)basic rules/$, world $(l)gereneration/$ and $(l)mining/$:',
   },
   
-   skyblock: {
+   'skyblock': {
     name: 'Skyblock',
     icon: 'minecraft:log',
     description:
