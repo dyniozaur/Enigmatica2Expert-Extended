@@ -57,6 +57,13 @@ const defaultFileContent = {
     description:
       'Tweaks and changes about $(l)basic rules/$, world $(l)gereneration/$ and $(l)mining/$:',
   },
+  
+   skyblock: {
+    name: 'Skyblock',
+    icon: 'minecraft:log',
+    description:
+      'Hitchhiker\'s guide to skyblock.',
+  },
 
   'energy': {
     icon       : 'nuclearcraft:upgrade:1',
