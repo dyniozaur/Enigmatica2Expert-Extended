@@ -1,0 +1,62 @@
+{
+  "__comment": "This file generated automatically with Patchouli.js. All changes will be rewritten",
+  "name": "B Tips",
+  "icon": "ic2:crop_seed_bag",
+  "category": "Skyblock",
+  "pages": [
+    {
+      "item": "ic2:crop_seed_bag",
+      "title": "IC2 crops",
+      "text": "IC2 crops are great. They are very fast and can be used to get large quantities of many basic plants like sugar canes.$(br)The second thing is cross breeding. You need some to progress plants, like terra warts, and some higher tier plants are a great alternative source of expensive resources.",
+      "type": "spotlight"
+    },
+    {
+      "item": "ic2:crop_seed_bag",
+      "title": "IC2 crops",
+      "text": "Explore crops in JEI, and use Cropanalyzer calculator (default: press C while holding it).$(br)You can automate crop's harvest with IC2 Crop Harvester, or a forestry multifarm (emerald tubes).",
+      "type": "spotlight"
+    },
+    {
+      "item": "rustic:crushing_tub",
+      "title": "Crushing tub",
+      "text": "This is one of your best friends in early game. Check out the recipes in JEI. Can be automated by putting a slime or rabbit on it, or you can get creative with armor stands and pistons.",
+      "type": "spotlight"
+    },
+    {
+      "item": "exnihilocreatio:item_mesh:1",
+      "title": "Sieving",
+      "text": "You'll sieve a lot. Note that string sieve only gives you some materials, and other meshes are very expensive. Check out the resources tab to see how to obtain other materials.",
+      "type": "spotlight"
+    },
+    {
+      "item": "tconstruct:seared_tank",
+      "title": "Smeltery fuels",
+      "text": "For early game fuel sources, try canola oil, creosode oil, or lava. For complete guide go to Liquids section of this book.",
+      "type": "spotlight"
+    },
+    {
+      "item": "farmingforblockheads:market",
+      "title": "Market",
+      "text": "You can buy almost any sapling, seed or spawn egg here.",
+      "type": "spotlight"
+    },
+    {
+      "item": "minecraft:iron_pickaxe",
+      "title": "Early automation",
+      "text": "Use Random Things Block Breaker to break blocks. It uses no power nor redstone and outputs broken items to an inventory behind it. Check out \"Liquid Interaction\" in JEI (under lava bucket). The cheaper ones include cobble, andesite/diorite/granite, sand, flesh->dirt, dirt itself, snow, gravel, netherrack, basalt.",
+      "type": "spotlight"
+    },
+    {
+      "item": "integrateddynamics:squeezer",
+      "title": "Squeezer",
+      "text": "Cheap and useful in early game. Check out the JEI recipes.",
+      "type": "spotlight"
+    },
+    {
+      "item": "minecraft:obsidian",
+      "title": "Nether portal",
+      "text": "Nether portal spread is a very important source of resources. Check out the recipes in JEI using Obsidian. They include aluminum, quartz, sky stone, nether wart, netherrack, blood.$(br)Note that a 1x2 portal is enough for the spread to work.",
+      "type": "spotlight"
+    }
+  ]
+}

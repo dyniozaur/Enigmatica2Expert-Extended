@@ -1,0 +1,26 @@
+{
+  "__comment": "This file generated automatically with Patchouli.js. All changes will be rewritten",
+  "name": "E Animals",
+  "icon": "draconicevolution:mob_soul{EntityName:\"excompressum:angry_chicken\"}",
+  "category": "Skyblock",
+  "pages": [
+    {
+      "item": "draconicevolution:mob_soul{EntityName:\"excompressum:angry_chicken\"}",
+      "title": "Angry chicken",
+      "text": "Hit a chicken with a stick.",
+      "type": "spotlight"
+    },
+    {
+      "item": "draconicevolution:mob_soul{EntityName:\"minecraft:pig\"}",
+      "title": "Vanila animals",
+      "text": "Use baits.",
+      "type": "spotlight"
+    },
+    {
+      "item": "draconicevolution:mob_soul{EntityName:\"animania:bull_friesian\"}",
+      "title": "Animania animals",
+      "text": "Use rustic's alchemy to craft spawn eggs.",
+      "type": "spotlight"
+    }
+  ]
+}
