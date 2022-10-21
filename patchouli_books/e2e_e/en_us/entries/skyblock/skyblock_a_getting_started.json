@@ -1,0 +1,83 @@
+{
+  "__comment": "This file generated automatically with Patchouli.js. All changes will be rewritten",
+  "name": "Skyblock: A Getting Started",
+  "icon": "minecraft:log",
+  "category": "Skyblock",
+  "pages": [
+    {
+      "item": "minecraft:log",
+      "title": "Wood",
+      "text": "You get plenty with the first quest. Use excavator modifier as explained in the quest book. Dark oak trees are great.",
+      "type": "spotlight"
+    },
+    {
+      "item": "minecraft:leaves",
+      "title": "Saplings",
+      "type": "item_spread",
+      "text": "Use TC crooks to get different kinds of saplings.",
+      "item0": "integrateddynamics:menril_sapling",
+      "item1": "rustic:sapling",
+      "item2": "rustic:sapling:1",
+      "item3": "exnihilocreatio:item_material:2"
+    },
+    {
+      "item": "minecraft:water_bucket",
+      "title": "Water",
+      "type": "grid_text",
+      "text": "Crush cacti in crushing tub, or fill barrels with rain. You can use bowls or a clay bucket to carry water, but be careful with the bowl!",
+      "item12": "rustic:crushing_tub",
+      "item13": "minecraft:bowl",
+      "item14": "forestry:pipette",
+      "item15": "minecraft:dirt",
+      "item16": "minecraft:reeds"
+    },
+    {
+      "item": "minecraft:dirt",
+      "title": "Dirt",
+      "text": "Compost greens in barrels. Sugar cane on IC2 crops is great for larger quantities.",
+      "type": "spotlight"
+    },
+    {
+      "item": "minecraft:cobblestone",
+      "title": "Rocks",
+      "text": "Sieve dirt to get pebbles, craft them into cobble, andesite, diorite, granite.",
+      "type": "spotlight"
+    },
+    {
+      "item": "mysticalagriculture:fire_essence",
+      "title": "Fire",
+      "text": "Break wooden plank slab with stick.",
+      "type": "spotlight"
+    },
+    {
+      "item": "minecraft:coal:1",
+      "title": "Charcoal",
+      "text": "To craft a furnace, you need (char)coal. Use Forestry wood piles: surround it with dirt from all directions but top, place fire on top, then place dirt in place of fire. After a few minutes the burning is over and you can collect charcoal and ash.",
+      "type": "spotlight"
+    },
+    {
+      "item": "minecraft:iron_ingot",
+      "title": "Iron",
+      "text": "As said in the quest book, you can use ironwood. Crush ironberries in the crushing tub to get iron juice, then put the juice to drying basin to get iron ore piece, and combine them into iron ore.",
+      "type": "spotlight"
+    },
+    {
+      "item": "tconstruct:seared_tank",
+      "title": "Smeltery fuel",
+      "text": "For starters, use canola oil. Get it by growing canola and crushing it in a crushing tub.",
+      "type": "spotlight"
+    },
+    {
+      "item": "minecraft:blaze_powder",
+      "title": "Blaze",
+      "text": "Sieve sand to obtain cinderpearl seeds. Place them on sand to grow and craft blaze from them.",
+      "type": "spotlight"
+    },
+    {
+      "item": "minecraft:lava_bucket",
+      "title": "Lava",
+      "text": "Squeeze blaze in Integrated Dynamics squeezer.",
+      "type": "spotlight"
+    }
+  ]
+}

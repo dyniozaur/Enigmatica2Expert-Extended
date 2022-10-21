@@ -1,0 +1,20 @@
+{
+  "__comment": "This file generated automatically with Patchouli.js. All changes will be rewritten",
+  "name": "Skyblock: F Advance Tips",
+  "icon": "thaumcraft:thaumonomicon",
+  "category": "Skyblock",
+  "pages": [
+    {
+      "item": "thaumcraft:thaumonomicon",
+      "title": "Alien Hedge Alchemy",
+      "text": "To unlock this research, you normally need to enter Nether and the End, which you can't do in skyblock. The research is unlocked once you enter Hell/The End biome, which you can obtain by using a Terraformer.",
+      "type": "spotlight"
+    },
+    {
+      "item": "minecraft:diamond_pickaxe",
+      "title": "Mining the nether",
+      "text": "This is a crazy idea but it works. OpenComputers Drones CAN enter nether through the portal. You can program it to place a miner and mine nether. You can also build there any structure.$(br)If you place a teleporter there and want to loophole the system, don't worry, you'll be teleported to the overworld after just one tick.",
+      "type": "spotlight"
+    }
+  ]
+}

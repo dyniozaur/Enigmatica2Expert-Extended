@@ -1,0 +1,68 @@
+{
+  "__comment": "This file generated automatically with Patchouli.js. All changes will be rewritten",
+  "name": "Skyblock: C Metals",
+  "icon": "minecraft:iron_ingot",
+  "category": "Skyblock",
+  "pages": [
+    {
+      "item": "minecraft:iron_ingot",
+      "title": "Iron",
+      "text": "Use ironwood or ferrous juniper. The latter can be burned with fire to yield more iron.",
+      "type": "spotlight"
+    },
+    {
+      "item": "thermalfoundation:material:128",
+      "title": "Copper",
+      "text": "Sieve red sand. Yes, you need a smeltery to obtain copper. Later on, sieve dried sand and use Mekanism's enrichment chamber.",
+      "type": "spotlight"
+    },
+    {
+      "item": "thermalfoundation:material:129",
+      "title": "Tin",
+      "text": "Sieve white sand or garbage piles. Later on, sieve crushed andesite and use Mekanism's enrichment chamber.",
+      "type": "spotlight"
+    },
+    {
+      "item": "minecraft:gold_ingot",
+      "title": "Gold",
+      "text": "Bathe pigs in witchwater and kill the resulting zombie pigmen.",
+      "type": "spotlight"
+    },
+    {
+      "item": "thermalfoundation:material:131",
+      "title": "Lead",
+      "text": "Sieve garbage piles.",
+      "type": "spotlight"
+    },
+    {
+      "item": "thermalfoundation:material:132",
+      "title": "Aluminum",
+      "text": "Nether portal spread. Later alternatively sieve compressed gunpowder and use mekanism.",
+      "type": "spotlight"
+    },
+    {
+      "item": "tconstruct:ingots:1",
+      "title": "Ardite",
+      "text": "Sieve Garbage Piles.",
+      "type": "spotlight"
+    },
+    {
+      "item": "tconstruct:ingots:0",
+      "title": "Cobalt",
+      "text": "Emerald blocks turn into cobalt via nether portal spread.",
+      "type": "spotlight"
+    },
+    {
+      "item": "mekanism:ingot:1",
+      "title": "Osmium",
+      "text": "Crook prime wool.",
+      "type": "spotlight"
+    },
+    {
+      "item": "thermalfoundation:material:133",
+      "title": "Nickel",
+      "text": "Many possible ways, for example grindstone forms of iron, like native iron cluster or dirty iron.",
+      "type": "spotlight"
+    }
+  ]
+}

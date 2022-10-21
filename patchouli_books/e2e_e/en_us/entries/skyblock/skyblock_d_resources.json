@@ -1,0 +1,56 @@
+{
+  "__comment": "This file generated automatically with Patchouli.js. All changes will be rewritten",
+  "name": "Skyblock: D Resources",
+  "icon": "minecraft:quartz",
+  "category": "Skyblock",
+  "pages": [
+    {
+      "item": "minecraft:quartz",
+      "title": "Quartz",
+      "text": "Nether portal spread.",
+      "type": "spotlight"
+    },
+    {
+      "item": "minecraft:coal",
+      "title": "Coal",
+      "text": "IC2 crops, or ash from wood piles or nether spread on leaves.",
+      "type": "spotlight"
+    },
+    {
+      "item": "appliedenergistics2:sky_stone_block",
+      "title": "Sky stone",
+      "text": "Nether portal spread.",
+      "type": "spotlight"
+    },
+    {
+      "item": "minecraft:lava_bucket",
+      "title": "Lava",
+      "text": "Squeeze blaze, or alloy fiery essence milked from an angry chicken with seared stone. Explore other ways in JEI.",
+      "type": "spotlight"
+    },
+    {
+      "item": "actuallyadditions:item_misc:5",
+      "title": "Black Quartz",
+      "text": "IC2 crops or prime wool.",
+      "type": "spotlight"
+    },
+    {
+      "item": "mechanics:fuel_dust",
+      "title": "Heavy Fuel",
+      "text": "Prime wool.",
+      "type": "spotlight"
+    },
+    {
+      "item": "minecraft:emerald",
+      "title": "Emerald",
+      "text": "Trade.",
+      "type": "spotlight"
+    },
+    {
+      "item": "minecraft:diamond",
+      "title": "Diamond",
+      "text": "Use IC2 coal ball recipe, or IC2 crops. Later starlight infusion.",
+      "type": "spotlight"
+    }
+  ]
+}
