@@ -57,6 +57,13 @@ const defaultFileContent = {
     description:
       'Tweaks and changes about $(l)basic rules/$, world $(l)gereneration/$ and $(l)mining/$:',
   },
+  
+   'skyblock': {
+    name       : 'Skyblock',
+    icon       : 'littletiles:multitiles{structure:{id:"fixed"},grid:4,size:[I;5,8,5],min:[I;0,0,0],tiles:[{tile:{block:"quark:turf"},boxes:[[I;0,4,1,1,6,4],[I;1,4,0,4,6,4],[I;1,6,1,4,7,4],[I;1,7,2,4,8,3],[I;2,7,1,3,8,2],[I;2,7,3,3,8,4],[I;1,1,1,4,2,4],[I;1,4,4,4,6,5],[I;4,4,1,5,6,4]]},{bBox:[I;1,0,1,4,1,4],tile:{block:"minecraft:bedrock"}},{bBox:[I;2,2,2,3,4,3],tile:{block:"minecraft:log"}}],count:11}',
+    description:
+      'Hitchhiker\'s guide to skyblock.',
+  },
 
   'energy': {
     icon       : 'nuclearcraft:upgrade:1',
